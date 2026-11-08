@@ -1,0 +1,1 @@
+module.exports={ VERSION:'VULNERABLE', PORT:Number(process.env.PORT)||3000, MAX_BODY:10240, MAX_CUPONES_POR_ORDEN:1 };
